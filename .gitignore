@@ -1,7 +1,2 @@
 *.swp
-bind.txt
-pvs.txt
-lvs.txt
-mount.txt
-vgs.txt
-md.txt
+/out/
